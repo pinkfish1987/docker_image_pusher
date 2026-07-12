@@ -3,7 +3,7 @@ nginx
 mysql
 redis
 rocketmq
-postgres
+postgres:18.4
 docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
